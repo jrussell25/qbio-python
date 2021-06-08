@@ -13,9 +13,15 @@ Materials for python workshops for Harvard QBio REU students
 
 
 **Week 1**: Introduction and review of python basics
+
 **Week 2**: Numpy and Matplotlib part 1
+
 **Week 3**: Numpy and Matplotlin part 2
+
 **Week 4**: Wrap up numpy and matplotlib
+
 **Week 5**: Pandas part 1 
+
 **Week 5**: Pandas part 2
+
 **Week 7**: Wrap up pandas and advanced topics
