@@ -16,7 +16,7 @@ Materials for python workshops for Harvard QBio REU students
 
 **Week 2**: Numpy and Matplotlib part 1
 
-**Week 3**: Numpy and Matplotlin part 2
+**Week 3**: Numpy and Matplotlib part 2
 
 **Week 4**: Wrap up numpy and matplotlib
 
